@@ -1,0 +1,10 @@
+
+
+Click profile button @ 972, 1868
+
+Click draft button @ 149, 1000
+
+First draft button @ 150, 404
+
+Click post button @ 751, 1868
+
